@@ -2,7 +2,7 @@
 #define VECTOR_H
 namespace fzzz
 {
-
+    dev_branch;
 };
 
 #endif
